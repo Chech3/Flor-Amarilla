@@ -8,8 +8,6 @@ body {
   justify-content: center; /* Centra horizontalmente los elementos en el cuerpo */
 }
 
-
-
 .flower {
   height: 200px;
   width: 200px;
@@ -25,9 +23,7 @@ body {
   /* Agrega una animación de pulsación */
   animation: bounce 2s infinite;
 }
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
 .text-above{
   position: absolute;
   text-align: center;
